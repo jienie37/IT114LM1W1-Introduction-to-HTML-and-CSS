@@ -1,0 +1,39 @@
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: white;
+  }
+  
+  
+  html {
+    background-color: #7c5b00;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #502f00;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+img {
+    max-width: 600px;
+}
+
+strong{
+    color: rgb(0, 126, 126);
+}
+
+span{
+    color:#ff0000;
+}
+
+em{
+    color:#e5ff00;
+}
